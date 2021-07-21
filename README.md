@@ -1,8 +1,6 @@
 ![portada](https://github.com/ccastroblua/kaggle_competition/blob/main/images/dr-strange.jpg?raw=true)
 
-# kaggle_competition:
-
-Diamonds kaggle bootcamp competition
+# Diamonds price kaggle competition:
 
 The goal of this project is to create a model that predicts the price of diamonds with a kaggle dataset. This competition is meassured by MSE (Mean Squared Error).
 
