@@ -1,4 +1,4 @@
-![portada](https://github.com/ccastroblua/kaggle-competition/blob/main/images/dr-strange.jpg)
+![portada](https://github.com/ccastroblua/kaggle_competition/blob/main/images/dr-strange.jpg?raw=true)
 
 # kaggle_competition:
 
